@@ -1,36 +1,52 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Sanjana Jaat — Developer Portfolio
 
-## Getting Started
+Full-Stack Developer & AI Engineer building production-style web applications, backend APIs, workflow automation systems, and LLM/RAG applications.
 
-First, run the development server:
+## Profile
+
+- **Focus:** Full-Stack Development, Python Backend, AI Engineering, LLM Applications
+- **Core stack:** Python, FastAPI, React, Next.js, TypeScript, SQL
+- **AI:** RAG, LLM applications, LangChain, OpenAI/Gemini APIs, embeddings, vector search
+- **Backend:** REST APIs, SQLAlchemy, PostgreSQL, SQLite, Alembic, authentication
+- **Engineering:** API integration, workflow orchestration, database design, validation, debugging, CI/CD
+
+## Featured Projects
+
+### NovaRAG — Multi-Agent RAG Platform
+Enterprise-style document Q&A platform with agent routing, session-isolated retrieval, persistent FAISS vector storage, local LLM inference, and FastAPI/Next.js architecture.
+
+[View NovaRAG](https://github.com/sanjanajaat23-commits/NovaRAG)
+
+### NovaCRM AI — Revenue Intelligence SaaS
+Full-stack multi-tenant CRM combining FastAPI, React, PostgreSQL, JWT authentication, tenant isolation, AI lead scoring, personalized outreach, and a context-aware Revenue Copilot.
+
+[View NovaCRM AI](https://github.com/sanjanajaat23-commits/NovaCRM-AI)
+
+### AI Workflow Automation Platform
+Visual workflow automation system using React Flow and FastAPI with workflow validation, node execution, HTTP/AI nodes, scheduling, persistent execution history, and node-level logs.
+
+[View Workflow Automation Platform](https://github.com/sanjanajaat23-commits/AI-Workflow-Automation-Platform)
+
+## Additional Projects
+
+- [AI Resume Analyzer](https://github.com/sanjanajaat23-commits/ai-resume-analyzer) — ATS-style resume analysis and job-description matching UI.
+- [AI Mock Interview](https://github.com/sanjanajaat23-commits/ai-mock-interview) — interview practice platform covering frontend, backend, and DSA flows.
+- [Shopify Analytics Dashboard](https://github.com/sanjanajaat23-commits/shopify-dashboard) — responsive analytics dashboard with KPI, revenue, traffic, orders, and product views.
+
+## Portfolio
+
+Live portfolio: https://sanjana-portfolio-9zek0fbn9-sanjanajaat23-commits-projects.vercel.app
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/sanjana-jaat-281224408
+- GitHub: https://github.com/sanjanajaat23-commits
+
+## Development
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This repository contains the source for the portfolio website. The individual project repositories contain their own architecture, setup instructions, screenshots, and technical documentation.
